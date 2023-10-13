@@ -11,10 +11,11 @@ nav{
 
 
 nav a{
-     display: flex;
+     display: block;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
+     text-decoration: underline;
 
 }
 form{
